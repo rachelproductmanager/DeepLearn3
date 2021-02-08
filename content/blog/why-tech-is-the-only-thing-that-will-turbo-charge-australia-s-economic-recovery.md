@@ -4,7 +4,7 @@ categories = ["Innovation", "Technology"]
 date = 2020-09-17T14:00:00Z
 description = "Science and technology should become national priorities if Australia is going to emerge from the COVID crisis as winners."
 draft = true
-image = ""
+image = "/images/tech_central_syd.jpeg"
 tags = ["Australian economy", "Innovation", "Technology"]
 title = "Why tech is the only thing that will turbo charge Australia's economic recovery"
 

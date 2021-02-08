@@ -1,7 +1,7 @@
 +++
 author = []
 categories = ["Innovation", "Technology"]
-date = ""
+date = 2020-09-17T14:00:00Z
 description = "Science and technology should become national priorities if Australia is going to emerge from the COVID crisis as winners."
 draft = true
 image = ""

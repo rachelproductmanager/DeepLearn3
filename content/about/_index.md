@@ -1,6 +1,6 @@
 ---
 title: About
-description: This is meta description
+description: About the DeepLearn blog
 
 ---
 ### Hello, I’m Rachel

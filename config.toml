@@ -30,10 +30,6 @@ weight = 3
 URL = "contact"
 name = "Contact"
 weight = 4
-[[menu.main]]
-URL = "sample-page"
-name = "Sample Page"
-weight = 5
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]

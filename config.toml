@@ -36,7 +36,7 @@ home = ["HTML", "RSS", "JSON"]
 author = "Themefisher"
 description = "This is meta description"
 [params.banner]
-heading = "A blog about data, AI and innovation"
+heading = "Thoughts about data, AI & innovation "
 image = "images/2020-landscape-1-2.png"
 [params.blog]
 heading = "Welcome to DeepLearn. A blog about all things data, AI, technology and innovation."

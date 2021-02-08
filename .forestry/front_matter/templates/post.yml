@@ -24,3 +24,5 @@ fields:
   name: description
   label: description
   description: Meta description
+pages:
+- content/blog/why-tech-is-the-only-thing-that-will-turbo-charge-australia-s-economic-recovery.md
